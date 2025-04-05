@@ -22,6 +22,10 @@
             ]
           },
           {
+        "tab": "API Reference",
+        "openapi": "https://a.api.mindset.ai/swagger/mindset.json"
+    },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
