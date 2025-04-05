@@ -35,8 +35,8 @@
                 ]
             },
             {
-                "tab": "API Reference",
-                "openapi": "https://petstore3.swagger.io/api/v3/openapi.json"
+                "tab": "Our swagger",
+                "openapi": "https://int.api.mindset.ai/swagger/mindset.json"
             }
         ],
         "global": {
