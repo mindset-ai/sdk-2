@@ -11,7 +11,8 @@
   "navigation": {
     "tabs": [
       {
-        
+        "tab": "Swagger TEST",
+        "openapi": "https://a.api.mindset.ai/swagger/mindset.json",
         "tab": "Guides",
         "groups": [
           {
@@ -44,10 +45,6 @@
               "api-reference/introduction"
             ]
           },
-          {
-        "tab": "Swagger TEST",
-        "openapi": "https://a.api.mindset.ai/swagger/mindset.json"
-    },
           {
             "group": "Endpoint Examples",
             "pages": [
