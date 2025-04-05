@@ -22,10 +22,6 @@
             ]
           },
           {
-        "tab": "API Reference TEST",
-        "openapi": "https://a.api.mindset.ai/swagger/mindset.json"
-    },
-          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
@@ -57,7 +53,11 @@
             ]
           }
         ]
-      }
+      },
+      {
+        "tab": "API Reference TEST",
+        "openapi": "https://a.api.mindset.ai/swagger/mindset.json"
+    },
     ],
     "global": {
       "anchors": [
